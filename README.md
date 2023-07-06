@@ -4,7 +4,7 @@ Velocity is an exhilarating, open-source karting game that brings the excitement
 
 ## Snippets
 
-<center><img src="https://github.com/lightlessdays/Velocity/assets/97734029/ff180749-8124-4a0f-b725-188a14d8b788" width=33%> <img src="https://github.com/lightlessdays/Velocity/assets/97734029/ff180749-8124-4a0f-b725-188a14d8b788" width=33%> <img src="https://github.com/lightlessdays/Velocity/assets/97734029/ff180749-8124-4a0f-b725-188a14d8b788" width=33%>
+<center><img src="https://github.com/lightlessdays/Velocity/assets/97734029/ff180749-8124-4a0f-b725-188a14d8b788" width=33%> <img src="https://github.com/lightlessdays/Velocity/assets/97734029/8b5976e9-cd6f-4878-bb39-379112cc5407" width=33%> <img src="https://github.com/lightlessdays/Velocity/assets/97734029/7931ab64-668b-46cc-a1e0-8eedc9fb9077" width=33%>
 </center>
 
 ## Controls
