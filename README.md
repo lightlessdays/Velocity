@@ -41,7 +41,7 @@ Velocity is an exhilarating, open-source karting game that brings the excitement
 | Linux            | [Velocity Linux.zip](https://github.com/lightlessdays/Velocity/releases/download/v2.0/Velocity_Linux.zip)  | Install and Unzip the folder. Inside the folder, open Velocity.x86_64 file to play the game.                                                      |
 | Mac OS           | Coming Soon to Mac OS...                                                                                   | Coming Soon to Mac OS...                                                                                                                          |
 
-## ⏬ Web Version
+## 🌐 Web Version
 
 Want to try out the game before downloading? Try out the web version of this game [here](https://lightlessdays.github.io/Velocity/). Please note that the web version might be slow and might experience glitches. It is recommended that for the best experience, you download the game.
 
