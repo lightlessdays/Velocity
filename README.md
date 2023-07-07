@@ -34,6 +34,13 @@ Velocity is an exhilarating, open-source karting game that brings the excitement
 
 ## Downloads
 
+| Operating System | Installation Link                                                                                          | Installation Instructions |
+|:----------------:|------------------------------------------------------------------------------------------------------------|---------------------------|
+| Windows 64 Bit   | [Velocity 64 Bit.zip](https://github.com/lightlessdays/Velocity/releases/download/v1.0/Windows.64.Bit.zip) |                           |
+| Windows 32 Bit   |                                                                                                            |                           |
+| Linux            |                                                                                                            |                           |
+| Mac OS           |                                                                                                            |                           |
+
 ## License
 
 Copyright (c) 2023 Dhruv Badaya
