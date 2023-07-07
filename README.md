@@ -2,11 +2,11 @@
 
 Velocity is an exhilarating, open-source karting game that brings the excitement of high-speed racing to gaming enthusiasts worldwide. Developed using the powerful Unity game engine, this project offers an immersive experience with stunning graphics, intuitive controls, and an extensive range of features.
 
-## Snippets
+## 📸 Snippets
 
 <img src="https://github.com/lightlessdays/Velocity/assets/97734029/ff180749-8124-4a0f-b725-188a14d8b788" width=100%> <img src="https://github.com/lightlessdays/Velocity/assets/97734029/8b5976e9-cd6f-4878-bb39-379112cc5407" width=100%> <img src="https://github.com/lightlessdays/Velocity/assets/97734029/7931ab64-668b-46cc-a1e0-8eedc9fb9077" width=100%> <img src="https://github.com/lightlessdays/Velocity/assets/97734029/b767696e-5b78-46a5-8c5f-30744507aa46" width=100%>
 
-## Controls
+## 🎮 Controls
 
 ### First Player Controls
 
@@ -32,7 +32,7 @@ Velocity is an exhilarating, open-source karting game that brings the excitement
 | Backspace |   Switch Camera  |
 |    Esc    |    Pause Game    |
 
-## Downloads
+## ⏬ Downloads
 
 | Operating System | Installation Link                                                                                          | Installation Instructions                                                                                                                         |
 |:----------------:|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,7 +41,7 @@ Velocity is an exhilarating, open-source karting game that brings the excitement
 | Linux            | [Velocity Linux.zip](https://github.com/lightlessdays/Velocity/releases/download/v2.0/Velocity_Linux.zip)  | Install and Unzip the folder. Inside the folder, open Velocity.x86_64 file to play the game.                                                      |
 | Mac OS           | Coming Soon to Mac OS...                                                                                   | Coming Soon to Mac OS...                                                                                                                          |
 
-## License
+## 📝 License
 
 Copyright (c) 2023 Dhruv Badaya
 
