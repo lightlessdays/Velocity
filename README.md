@@ -34,12 +34,12 @@ Velocity is an exhilarating, open-source karting game that brings the excitement
 
 ## Downloads
 
-| Operating System | Installation Link                                                                                          | Installation Instructions |
-|:----------------:|------------------------------------------------------------------------------------------------------------|---------------------------|
-| Windows 64 Bit   | [Velocity 64 Bit.zip](https://github.com/lightlessdays/Velocity/releases/download/v1.0/Windows.64.Bit.zip) |                           |
-| Windows 32 Bit   |                                                                                                            |                           |
-| Linux            |                                                                                                            |                           |
-| Mac OS           |                                                                                                            |                           |
+| Operating System | Installation Link                                                                                          | Installation Instructions                                                                                                                         |
+|:----------------:|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Windows 64 Bit   | [Velocity 64 Bit.zip](https://github.com/lightlessdays/Velocity/releases/download/v1.0/Windows.64.Bit.zip) | Install and Unzip the folder. Inside the folder, you will find an .exe application with the name "Velocity". Double click on it to open the game. |
+| Windows 32 Bit   | [Velocity 32 Bit.zip](https://github.com/lightlessdays/Velocity/releases/download/v1.0/Windows.32.Bit.zip) | Install and Unzip the folder. Inside the folder, you will find an .exe application with the name "Velocity". Double click on it to open the game. |
+| Linux            | [Velocity Linux.zip](https://github.com/lightlessdays/Velocity/releases/download/v2.0/Velocity_Linux.zip)  | Install and Unzip the folder. Inside the folder, open Velocity.x86_64 file to play the game.                                                      |
+| Mac OS           | Coming Soon to Mac OS...                                                                                   | Coming Soon to Mac OS...                                                                                                                          |
 
 ## License
 
