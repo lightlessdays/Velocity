@@ -2,7 +2,7 @@
 # Default Collab Ignore Rules
 # ===========================
 
-# OS Generated
+# OS Generated 
 # ============
 .DS_Store
 ._*
